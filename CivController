@@ -1,0 +1,12 @@
+CivController
+{
+    public class CivController : MonoBehaviour
+    {
+        public CivData civData;
+        public void UpdateCredits()
+        {
+            civData._civCredits += 50f;
+        }
+    }
+
+}
