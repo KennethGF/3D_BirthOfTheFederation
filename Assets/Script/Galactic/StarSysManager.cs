@@ -98,7 +98,7 @@ namespace Assets.Core
                 {
                     if (oneRenderer.name == "CivRaceSprite")
                     {
-                        oneRenderer.sprite = civSO.CivImage; // ok
+                        oneRenderer.sprite = civSO.CivImage; // new branch
                     }
 
 
