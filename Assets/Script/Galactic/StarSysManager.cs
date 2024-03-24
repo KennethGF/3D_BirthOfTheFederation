@@ -98,8 +98,7 @@ namespace Assets.Core
                 {
                     if (oneRenderer.name == "CivRaceSprite")
                     {
-                        oneRenderer.sprite = civSO.CivImage;
-
+                        oneRenderer.sprite = civSO.CivImage; // ok
                     }
 
 
