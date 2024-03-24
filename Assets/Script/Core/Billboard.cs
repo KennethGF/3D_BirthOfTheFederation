@@ -6,7 +6,7 @@ namespace Assets.Core
 {
     public class Billboard : MonoBehaviour
     {
-
+        //
         private Camera theCam;
 
         void LateUpdate()

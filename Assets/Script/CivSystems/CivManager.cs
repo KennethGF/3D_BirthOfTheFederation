@@ -85,6 +85,7 @@ namespace Assets.Core
                 data.Population = civSO.Population;
                 data.Credits = civSO.Credits;
                 data.TechPoints = civSO.TechPoints;
+                //wip add more fields
                 civDataList.Add(data);
                 
             }
